@@ -1,12 +1,12 @@
-# Portfólio de Junior Reis
+# Portfólio de Ícaro Vaz
 
-Bem-vindo ao meu portfólio! Este projeto é uma vitrine das minhas habilidades e experiências como desenvolvedor.
+Bem-vindo ao meu portfólio! Este projeto que fiz usando as minhas habilidades e experiências como desenvolvedor.
 
-## Demonstração
+## Demonstration
 
 Você pode visualizar meu portfólio online através do seguinte link:https://portifolio-eight-neon.vercel.app/
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML
 - CSS
@@ -15,7 +15,7 @@ Você pode visualizar meu portfólio online através do seguinte link:https://po
 ## Funcionalidades
 
 - **Seções do Portfólio:** Projetos destacados, informações sobre mim e contatos.
-- **Interatividade:** Elementos dinâmicos que melhoram a experiência do usuário.
+- **Interatividade:** Elementos dinâmicos que irão melhorar a experiência do usuário.
 
 ## Como Executar
 
